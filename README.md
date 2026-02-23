@@ -12,16 +12,7 @@ I enjoy learning by doing — creating systems, testing ideas, and understanding
 My current focus is on **C#, Python, and application logic**, with interest in backend development and databases.
 
 ---
-## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/cauannunes0464-hue">
-    <img src="https://img.shields.io/badge/GitHub-Cauan_Nunes_Lopes-181717?style=for-the-badge&logo=github" />
-  </a>
-  
-</p>
-
----
 ## Concepts:
   - Programming Logic  
   - Algorithms  
