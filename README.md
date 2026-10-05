@@ -6,7 +6,7 @@
 
 ---
 ## 👨‍💻 About Me
-I'm currently in the **3rd semester of Systems Analysis and Development**, building practical projects to strengthen my skills in programming and software development.
+I'm currently in the **4rd semester of Systems Analysis and Development**, building practical projects to strengthen my skills in programming and software development.
 
 I enjoy learning by doing — creating systems, testing ideas, and understanding how things work behind the scenes.  
 My current focus is on **C#, Python, and application logic**, with interest in backend development and databases.
